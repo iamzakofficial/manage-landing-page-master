@@ -19,5 +19,5 @@ This is a solution to the [Manage landing page challenge on Frontend Mentor](htt
 ## Author
 
 - Website - [Zaib Ali](https://github.com/iamzakofficial)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/iamzakofficial)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Zaib Ali](https://www.frontendmentor.io/profile/iamzakofficial)
+- Twitter - [@iamzaybali](https://www.twitter.com/iamzaybali)
